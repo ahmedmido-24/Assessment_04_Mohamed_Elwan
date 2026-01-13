@@ -60,18 +60,6 @@ This part represents an **ERD design** for the Musicana records database.
 
 ---
 
-## Postman Notes
-
-* All endpoints are tested using Postman.
-* Requests are named clearly (e.g., *Add User*).
-* All changes are saved.
-* Postman collection is exported and shared.
-
-**Postman Collection Link:**
-(Add link here)
-
----
-
 ## Author
 
 Ahmed Mokhtar
